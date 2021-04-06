@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/epic-dropdown/static/css/main.fbe1da29.chunk.css",
+    "main.js": "/epic-dropdown/static/js/main.785f56e9.chunk.js",
+    "main.js.map": "/epic-dropdown/static/js/main.785f56e9.chunk.js.map",
+    "runtime-main.js": "/epic-dropdown/static/js/runtime-main.b8838e1d.js",
+    "runtime-main.js.map": "/epic-dropdown/static/js/runtime-main.b8838e1d.js.map",
+    "static/js/2.bddfb96e.chunk.js": "/epic-dropdown/static/js/2.bddfb96e.chunk.js",
+    "static/js/2.bddfb96e.chunk.js.map": "/epic-dropdown/static/js/2.bddfb96e.chunk.js.map",
+    "index.html": "/epic-dropdown/index.html",
+    "static/css/main.fbe1da29.chunk.css.map": "/epic-dropdown/static/css/main.fbe1da29.chunk.css.map",
+    "static/js/2.bddfb96e.chunk.js.LICENSE.txt": "/epic-dropdown/static/js/2.bddfb96e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/epic-dropdown/static/media/img-7.dfeef525.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8838e1d.js",
+    "static/js/2.bddfb96e.chunk.js",
+    "static/css/main.fbe1da29.chunk.css",
+    "static/js/main.785f56e9.chunk.js"
+  ]
+}
